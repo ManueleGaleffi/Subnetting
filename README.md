@@ -10,6 +10,6 @@ L' obbiettivo era utilizzare le regole di subnetting per creare due sottoreti de
 
 Abbiamo creato due sottoreti con subnetmask 255.255.255.128 in modo che ognuna sia grande 128.
 
-Poi abbiamo assegnato gli indirizzi IP al router uno per ogniuna delle due sottoreti.
+Poi abbiamo assegnato gli indirizzi IP alle due porte del router.
 
-E infine abbiamo concluso la configurazione dai PC asseganandoli come default gateway l'indirizzo IP del router al quale sono collegati.
+E infine abbiamo concluso la configurazione dai PC asseganandoli come default gateway l'indirizzo IP della porta del router al quale sono collegati.
